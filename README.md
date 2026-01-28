@@ -52,6 +52,3 @@ A simple JavaScript project that uses the HTML5 `<canvas>` element to render a b
 4. Use the arrow keys to move the red box.
 
 ---
-
-## 📁 File Structure Example
-
